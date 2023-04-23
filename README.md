@@ -13,4 +13,6 @@ Back end is a minimal api made in .NET 6 that has some simple features:
 
 -small test suite with unit + integration tests
 
+*Things I should have: logging, jwt configuration to be passed to front end
+
 *Will update as Angular portion is finished
